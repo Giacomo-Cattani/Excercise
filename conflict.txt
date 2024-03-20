@@ -1,0 +1,2 @@
+This is a sample text for the conflict.txt file.
+Feel free to modify and add your own content here.
