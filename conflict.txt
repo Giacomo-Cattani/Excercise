@@ -1,2 +1,4 @@
-This is a sample text for the conflict.txt file.
-Feel free to modify and add your own content here.
+import random
+
+numbers = [random.randint(1, 100) for _ in range(10)]
+print(numbers)
